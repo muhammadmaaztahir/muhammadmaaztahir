@@ -12,7 +12,7 @@
 
 - 📚 I’m currently Studying **Web & App Development at SMIT**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap & Tailwind CSS**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap & Tailwind**
 
 - 📫 Reach me at **muhammadmaaztahir123@gmail.com**
 
