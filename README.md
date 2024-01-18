@@ -43,9 +43,9 @@
 ## Statistics
 <div align="left">
 <a href="https://github.com/muhammadmaaztahir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmaaztahir&theme=highcontrast" height="180em" width="60%"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmaaztahir&theme=highcontrast" height="180em"/>
   
 <br>
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadmaaztahir&theme=highcontrast" height="180em" width="40%" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadmaaztahir&theme=highcontrast" height="180em"/>
 </div>
