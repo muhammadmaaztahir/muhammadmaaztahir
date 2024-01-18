@@ -43,7 +43,7 @@
 ## Statistics
 <div align="left">
 <a href="https://github.com/muhammadmaaztahir">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmaaztahir&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmaaztahir&theme=highcontrast" height="180em" width="40%"/>
   
 <br>
   
