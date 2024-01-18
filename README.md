@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about crafting captivating digital experiences. Always learning, exploring, and coding for innovative web solutions.</h3>
 
 <br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="48%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="55%" />
 <p width="50%">Myself Muhammad Maaz Tahir, a Frontend developer with a passion for creating captivating web experiences. My journey involves mastering HTML, CSS, and JavaScript, allowing me to build dynamic and responsive user interfaces. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀</p>
 
 - 🔭 I’m currently working at **Internship at SUPARCO**
@@ -44,5 +44,6 @@
 <div align="left">
 <a href="https://github.com/muhammadmaaztahir">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadmaaztahir&theme=highcontrast" height="180em" />
+<br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadmaaztahir&theme=highcontrast" height="180em" />
 </div>
