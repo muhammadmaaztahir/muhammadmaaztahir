@@ -5,7 +5,20 @@
 <br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="40%" />
+<p>loredfksdjfksd sjfdskljfklsd sdjfidslijfilsd</p>
 
+- 🔭 I’m currently working at **Internship at SUPARCO**
+
+- 🌱 I’m currently learning **ReactJS,JQuery, AngularJS & Python**
+
+- 🔭 I’m currently Studying at **SMIT in MERN STACK DEVELOPER COURSE**
+
+- 👨‍💻 All of my projects are available at https://fahadalam.netlify.app/
+
+- 💬 Ask me about **HTML,CSS,Bootstrap,TalwindCSS,Javascript,Firebase**
+
+- 📫 How to reach me **fahadalam12405@gmail.com**
+  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmaaztahir&theme=matrix" alt="muhammadmaaztahir" /></a> </p>
 
 <br>
