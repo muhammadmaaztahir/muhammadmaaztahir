@@ -10,13 +10,11 @@
 
 - 🔭 I’m currently working at **Internship at SUPARCO**
 
-- 🌱 I’m currently learning **ReactJS,JQuery, AngularJS & Python**
+- 🌱 I’m currently learning **ReactJS & Node JS**
 
-- 🔭 I’m currently Studying at **SMIT in MERN STACK DEVELOPER COURSE**
+- 🔭 I’m currently Studying **Web & App Development at SMIT**
 
-- 👨‍💻 All of my projects are available at https://fahadalam.netlify.app/
-
-- 💬 Ask me about **HTML,CSS,Bootstrap,TalwindCSS,Javascript,Firebase**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind**
 
 - 📫 How to reach me **fahadalam12405@gmail.com**
   
