@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, Tailwind**
 
-- 📫 How to reach me **muhammadmaaztahir123@gmail.com**
-  
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadmaaztahir&theme=matrix" alt="muhammadmaaztahir" /></a> </p>
+- 📫 Reach me at **muhammadmaaztahir123@gmail.com**
 
 <br>
 
