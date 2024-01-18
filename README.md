@@ -8,7 +8,6 @@
 <p width="60%">Myself Muhammad Maaz Tahir, a Frontend developer with a passion for creating captivating web experiences. My journey involves mastering HTML, CSS, and JavaScript, allowing me to build dynamic and responsive user interfaces. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀</p>
 
 <br>
-
 - 🔭 I’m currently working at **Internship at SUPARCO**
 
 - 🌱 I’m currently learning **ReactJS,JQuery, AngularJS & Python**
