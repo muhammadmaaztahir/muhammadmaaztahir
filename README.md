@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Muhammad Maaz Tahir</h1>
-<h3 align="center"  style="margin-bottom: 200px;">Passionate about crafting captivating digital experiences. Always learning, exploring, and coding for innovative web solutions.</h3>
+<h3 align="center">Passionate about crafting captivating digital experiences. Always learning, exploring, and coding for innovative web solutions.</h3>
 
+<br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="48%" />
 <p width="40%">Myself Muhammad Maaz Tahir, a Frontend developer and a self learner with a passion for creating captivating web experiences. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀
