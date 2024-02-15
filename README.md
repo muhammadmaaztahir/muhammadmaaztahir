@@ -4,7 +4,7 @@
 
 <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="48%" />
-<p width="50%">Myself Muhammad Maaz Tahir, a Frontend developer with a passion for creating captivating web experiences. My journey involves mastering HTML, CSS, and JavaScript, allowing me to build dynamic and responsive web pages. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀</p>
+<p width="50%">Myself Muhammad Maaz Tahir, a Frontend developer and a self learner with a passion for creating captivating web experiences. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀</p>
 
 - 🌱 I’m currently learning **ReactJS & Node JS**
 
