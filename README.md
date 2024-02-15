@@ -4,7 +4,7 @@
 
 <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="48%" />
-<p width="50%">Myself Muhammad Maaz Tahir, a Frontend developer and a self learner with a passion for creating captivating web experiences. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀
+<p width="40%">Myself Muhammad Maaz Tahir, a Frontend developer and a self learner with a passion for creating captivating web experiences. I love staying ahead of industry trends through continuous learning. Connect with me to explore potential collaborations and bring exciting ideas to the digital forefront. 🚀
 </p>
 
 <br>
@@ -20,7 +20,7 @@
 <br>
 
 ## Connect with me
-<a href="https://linkedin.com/in/muhammadmaaztahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="muhammadmaaztahir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadmaaztahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="muhammadmaaztahir" height="30" width="60" /></a>
 
 <br>
 
